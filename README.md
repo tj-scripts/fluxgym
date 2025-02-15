@@ -1,3 +1,7 @@
+# Why？
+
+Something wrong when I try to run fluxgym on autodl.com. Maybe I could fix some errors.
+
 # Flux Gym
 
 Dead simple web UI for training FLUX LoRA **with LOW VRAM (12GB/16GB/20GB) support.**
